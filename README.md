@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**RoyJames/royjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+This is **[Zhenyu](https://royjames.github.io/zhy/)**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a PhD candidate at the University of Maryland
+- 💬 Ask me about sound propagation & simulation and related research topics
+- 📫 How to reach me: zhy@umd.edu
+- 😄 Pronouns: He/Him/His
+
+
+Visitor Count ![Visitor Count](https://profile-counter.glitch.me/royjames/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royjames&layout=compact)](https://github.com/Christmas/github-readme-stats)
+
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=royjames&show_icons=true&theme=tokyonight)
