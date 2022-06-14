@@ -3,7 +3,7 @@
 
 This is **[Zhenyu](https://royjames.github.io/zhy/)**. 
 
-- 🔭 I’m currently a PhD candidate at the University of Maryland
+- 🔭 I got my PhD in computer science from the University of Maryland. Find my current employment at [LinkedIn](https://www.linkedin.com/in/zhenyu-tang-398853b1/)
 - 💬 Ask me about sound propagation & simulation and related research topics
 - 📫 How to reach me: zhy@umd.edu
 - 😄 Pronouns: He/Him/His
