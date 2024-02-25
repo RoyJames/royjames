@@ -4,8 +4,8 @@
 This is **[Zhenyu](https://royjames.github.io/zhy/)**. 
 
 - 🔭 I got my PhD in computer science from the University of Maryland. Find my current employment on [LinkedIn](https://www.linkedin.com/in/zhenyu-tang-398853b1/)
-- 💬 Ask me about sound propagation & simulation and related research topics
-- 📫 How to reach me: zhy@umd.edu
+- 💬 I specialize in speech-text foundation models, speech understanding and generation, sound propagation & simulation for mixed reality
+- 📫 How to reach me: zhy@terpmail.umd.edu
 - 😄 Pronouns: He/Him/His
 
 
